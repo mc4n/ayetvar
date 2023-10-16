@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/ayetvar/static/css/main.964af7fc.css",
+    "main.js": "/ayetvar/static/js/main.e0f3b706.js",
+    "index.html": "/ayetvar/index.html",
+    "main.964af7fc.css.map": "/ayetvar/static/css/main.964af7fc.css.map",
+    "main.e0f3b706.js.map": "/ayetvar/static/js/main.e0f3b706.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.964af7fc.css",
+    "static/js/main.e0f3b706.js"
+  ]
+}
