@@ -1,0 +1,14 @@
+{
+  "app_name": "Ayetvar",
+  "not_selected": "Not Selected",
+  "meccan": "Meccan",
+  "medinan": "Medinan",
+  "type": "Type",
+  "chapter": "Chapter",
+  "verses": "verses",
+  "find_chapter": "Search a chapter...",
+  "random": "Random",
+  "find_verse": "Search a verse...",
+  "search_results": "search results:",
+  "about": "About"
+}

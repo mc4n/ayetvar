@@ -1,0 +1,14 @@
+{
+  "app_name": "Ayetvar",
+  "not_selected": "Seçiniz",
+  "meccan": "Mekki",
+  "medinan": "Medeni",
+  "type": "Tür",
+  "chapter": "Sure",
+  "verses": "ayet",
+  "find_chapter": "Sure ara...",
+  "random": "Rastgele",
+  "find_verse": "Ayet ara...",
+  "search_results": "arama sonuçları:",
+  "about": "Hakkında"
+}
